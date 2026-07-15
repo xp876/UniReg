@@ -1,0 +1,73 @@
+assay	trim	model	scope	mean_pearson	mean_spearman	mean_n
+HSS	171	cnn_mean_ens	by_prefix			
+HSS	171	cnn_mean_ens	overall	0.6767445562937778	0.47171082976762513	243.0
+HSS	171	cnn_mean_ens	overall_non_excluded	0.6767445562937778	0.47171082976762513	243.0
+HSS	171	kmer_elasticnet_mean_ens	by_prefix			
+HSS	171	kmer_elasticnet_mean_ens	overall	0.597819380383395	0.3636884411390913	243.0
+HSS	171	kmer_elasticnet_mean_ens	overall_non_excluded	0.597819380383395	0.3636884411390913	243.0
+HSS	171	kmer_mean_ens	by_prefix			
+HSS	171	kmer_mean_ens	overall	0.6076446713357314	0.3673625574112692	243.0
+HSS	171	kmer_mean_ens	overall_non_excluded	0.6076446713357314	0.3673625574112692	243.0
+HSS	171	onehot_ridge_mean_ens	by_prefix			
+HSS	171	onehot_ridge_mean_ens	overall	0.1633681313837092	0.14811223906956839	243.0
+HSS	171	onehot_ridge_mean_ens	overall_non_excluded	0.1633681313837092	0.14811223906956839	243.0
+HSS	185	cnn_mean_ens	by_prefix			
+HSS	185	cnn_mean_ens	overall	0.6745522878308652	0.4639645901732127	243.0
+HSS	185	cnn_mean_ens	overall_non_excluded	0.6745522878308652	0.4639645901732127	243.0
+HSS	185	kmer_elasticnet_mean_ens	by_prefix			
+HSS	185	kmer_elasticnet_mean_ens	overall	0.597652586009976	0.3641244990590964	243.0
+HSS	185	kmer_elasticnet_mean_ens	overall_non_excluded	0.597652586009976	0.3641244990590964	243.0
+HSS	185	kmer_mean_ens	by_prefix			
+HSS	185	kmer_mean_ens	overall	0.606782264251239	0.36409564719499243	243.0
+HSS	185	kmer_mean_ens	overall_non_excluded	0.606782264251239	0.36409564719499243	243.0
+HSS	185	onehot_ridge_mean_ens	by_prefix			
+HSS	185	onehot_ridge_mean_ens	overall	0.1633681103152475	0.14811223906956839	243.0
+HSS	185	onehot_ridge_mean_ens	overall_non_excluded	0.1633681103152475	0.14811223906956839	243.0
+ORI	171	cnn_mean_ens	by_prefix			
+ORI	171	cnn_mean_ens	overall	0.7299732015166642	0.5439032682290963	242.0
+ORI	171	cnn_mean_ens	overall_non_excluded	0.7299732015166642	0.5439032682290963	242.0
+ORI	171	kmer_elasticnet_mean_ens	by_prefix			
+ORI	171	kmer_elasticnet_mean_ens	overall	0.6325707713092117	0.4079067525039018	242.0
+ORI	171	kmer_elasticnet_mean_ens	overall_non_excluded	0.6325707713092117	0.4079067525039018	242.0
+ORI	171	kmer_mean_ens	by_prefix			
+ORI	171	kmer_mean_ens	overall	0.6357651246773757	0.40443685891068915	242.0
+ORI	171	kmer_mean_ens	overall_non_excluded	0.6357651246773757	0.40443685891068915	242.0
+ORI	171	onehot_ridge_mean_ens	by_prefix			
+ORI	171	onehot_ridge_mean_ens	overall	0.2070500842647937	0.11750728173970967	242.0
+ORI	171	onehot_ridge_mean_ens	overall_non_excluded	0.2070500842647937	0.11750728173970967	242.0
+ORI	185	cnn_mean_ens	by_prefix			
+ORI	185	cnn_mean_ens	overall	0.734793748842883	0.5423658724772744	242.0
+ORI	185	cnn_mean_ens	overall_non_excluded	0.734793748842883	0.5423658724772744	242.0
+ORI	185	kmer_elasticnet_mean_ens	by_prefix			
+ORI	185	kmer_elasticnet_mean_ens	overall	0.6361091956583483	0.412977213564525	242.0
+ORI	185	kmer_elasticnet_mean_ens	overall_non_excluded	0.6361091956583483	0.412977213564525	242.0
+ORI	185	kmer_mean_ens	by_prefix			
+ORI	185	kmer_mean_ens	overall	0.6381237405001905	0.40808574816708987	242.0
+ORI	185	kmer_mean_ens	overall_non_excluded	0.6381237405001905	0.40808574816708987	242.0
+ORI	185	onehot_ridge_mean_ens	by_prefix			
+ORI	185	onehot_ridge_mean_ens	overall	0.2070500866586818	0.11750728173970967	242.0
+ORI	185	onehot_ridge_mean_ens	overall_non_excluded	0.2070500866586818	0.11750728173970967	242.0
+pGL4	171	cnn_mean_ens	by_prefix			
+pGL4	171	cnn_mean_ens	overall	0.706253976411322	0.5155698121541904	242.0
+pGL4	171	cnn_mean_ens	overall_non_excluded	0.706253976411322	0.5155698121541904	242.0
+pGL4	171	kmer_elasticnet_mean_ens	by_prefix			
+pGL4	171	kmer_elasticnet_mean_ens	overall	0.6168621644239866	0.3824069271750473	242.0
+pGL4	171	kmer_elasticnet_mean_ens	overall_non_excluded	0.6168621644239866	0.3824069271750473	242.0
+pGL4	171	kmer_mean_ens	by_prefix			
+pGL4	171	kmer_mean_ens	overall	0.6290273547752823	0.3806688469544578	242.0
+pGL4	171	kmer_mean_ens	overall_non_excluded	0.6290273547752823	0.3806688469544578	242.0
+pGL4	171	onehot_ridge_mean_ens	by_prefix			
+pGL4	171	onehot_ridge_mean_ens	overall	0.23239581825336794	0.15298702938909642	242.0
+pGL4	171	onehot_ridge_mean_ens	overall_non_excluded	0.23239581825336794	0.15298702938909642	242.0
+pGL4	185	cnn_mean_ens	by_prefix			
+pGL4	185	cnn_mean_ens	overall	0.7114441574125652	0.5329184714681883	242.0
+pGL4	185	cnn_mean_ens	overall_non_excluded	0.7114441574125652	0.5329184714681883	242.0
+pGL4	185	kmer_elasticnet_mean_ens	by_prefix			
+pGL4	185	kmer_elasticnet_mean_ens	overall	0.6197773099196667	0.3898323827124287	242.0
+pGL4	185	kmer_elasticnet_mean_ens	overall_non_excluded	0.6197773099196667	0.3898323827124287	242.0
+pGL4	185	kmer_mean_ens	by_prefix			
+pGL4	185	kmer_mean_ens	overall	0.6322184600083275	0.3911238894985953	242.0
+pGL4	185	kmer_mean_ens	overall_non_excluded	0.6322184600083275	0.3911238894985953	242.0
+pGL4	185	onehot_ridge_mean_ens	by_prefix			
+pGL4	185	onehot_ridge_mean_ens	overall	0.2323958101095845	0.15298702938909642	242.0
+pGL4	185	onehot_ridge_mean_ens	overall_non_excluded	0.2323958101095845	0.15298702938909642	242.0

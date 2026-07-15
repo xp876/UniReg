@@ -59,10 +59,6 @@ Full architecture details and implementation file locations are documented in
 | `Docs/` | Model architecture notes and UniReg schematic files. |
 | `Supplementary_Material/` | Lightweight ABD extension code and summary tables. |
 
-This layout follows the same reader-facing convention used by compact
-manuscript repositories such as SCORPION: code, data, results, documentation and
-supplementary material are separated into top-level folders.
-
 ## Included Data
 
 The required lightweight raw input files for the core manuscript reruns are

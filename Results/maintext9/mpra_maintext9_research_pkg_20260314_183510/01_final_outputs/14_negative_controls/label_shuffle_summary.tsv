@@ -1,0 +1,27 @@
+source_file	model	target	seed	kmin	kmax	best_alpha	val_pearson	val_spearman	test_pearson	test_spearman	n_test	real_test_pearson	real_test_spearman	dinuc_shuf_test_pearson	dinuc_shuf_test_spearman	alpha	prepared_dir	out_plan8/prepared/split_seed0/weighted
+nm_patch/nm_analysis_outputs_v4_final/nm_analysis_outputs_v4_final/14_negative_controls/label_shuffle_summary.tsv	kmer_ridge	delta	0.0	3.0	6.0	100.0	0.0561174129390204	0.0832368891697541	-0.0584993509770941	-0.0443395330202512	244.0							
+nm_patch/nm_analysis_outputs_v4_final/nm_analysis_outputs_v4_final/14_negative_controls/label_shuffle_summary.tsv	kmer_ridge	delta	0.0	3.0	6.0	100.0	0.0561174129390204	0.0832368891697541	-0.0584993509770941	-0.0443395330202512	244.0							
+nm_patch/nm_analysis_outputs_v4_final/nm_analysis_outputs_v4_final/14_negative_controls/label_shuffle_summary.tsv	kmer_ridge	delta	0.0	3.0	6.0	100.0	0.5198317546804361	0.3714938312908648	0.2176164254830967	0.1897104196870004	244.0							
+nm_patch/nm_analysis_outputs_v4_final/nm_analysis_outputs_v4_final/14_negative_controls/label_shuffle_summary.tsv	kmer_ridge	delta	0.0	3.0	6.0	100.0	0.5198317546804361	0.3714938312908648	0.2176164254830967	0.1897104196870004	244.0							
+nm_patch/nm_analysis_outputs_v4_final/nm_analysis_outputs_v4_final/14_negative_controls/label_shuffle_summary.tsv			0.0								244.0	0.6543215666482256	0.5889041712617044	0.2568091529797193	0.2649153893494252			
+nm_patch/nm_analysis_outputs_v4_final/nm_analysis_outputs_v4_final/14_negative_controls/label_shuffle_summary.tsv							0.348340980501392	0.220115732996295	0.3923535210885203	0.3282843677847581						1.0		
+nm_patch/nm_analysis_outputs_v4_final/nm_analysis_outputs_v4_final/14_negative_controls/label_shuffle_summary.tsv																	k	6
+nm_patch/nm_analysis_outputs_v4_final/nm_analysis_outputs_v4_final/14_negative_controls/label_shuffle_summary.tsv																	n_train	1952
+nm_patch/nm_analysis_outputs_v4_final/nm_analysis_outputs_v4_final/14_negative_controls/label_shuffle_summary.tsv																	n_test	244
+nm_patch/nm_analysis_outputs_v4_final/nm_analysis_outputs_v4_final/14_negative_controls/label_shuffle_summary.tsv																	n_exact_dups_test_in_train	0
+nm_patch/nm_analysis_outputs_v4_final/nm_analysis_outputs_v4_final/14_negative_controls/label_shuffle_summary.tsv																	max_sim_quantiles	{0.5: 0.16211702034442177, 0.9: 0.31363637121792276, 0.95: 0.6310725027304613, 0.99: 0.8477407253115709}
+nm_patch/nm_analysis_outputs_v4_final/nm_analysis_outputs_v4_final/14_negative_controls/label_shuffle_summary.tsv																	max_sim_mean	0.21542924768652758
+nm_patch/nm_analysis_outputs_v4_final/nm_analysis_outputs_v4_final/14_negative_controls/label_shuffle_summary.tsv																	max_sim_max	0.9319572255716644
+posthoc/posthoc_natcomm_plus/negctrl/kmer_shuffle/kmer.metrics.json	kmer_ridge	delta	0.0	3.0	6.0	100.0	0.05611741293902046	0.08323688916975412	-0.058499350977094175	-0.044339533020251204	244.0							
+posthoc/posthoc_natcomm_plus/negctrl/kmer_shuffle/kmer_shuffle.metrics.json	kmer_ridge	delta	0.0	3.0	6.0	100.0	0.05611741293902046	0.08323688916975412	-0.058499350977094175	-0.044339533020251204	244.0							
+posthoc/posthoc_natcomm_plus/negctrl/kmer_dinuc_shuffle_test/kmer.metrics.json	kmer_ridge	delta	0.0	3.0	6.0	100.0	0.5198317546804361	0.37149383129086483	0.2176164254830967	0.18971041968700048	244.0							
+posthoc/posthoc_natcomm_plus/negctrl/kmer_dinuc_shuffle_test/kmer_dinuc_shuffle_test.metrics.json	kmer_ridge	delta	0.0	3.0	6.0	100.0	0.5198317546804361	0.37149383129086483	0.2176164254830967	0.18971041968700048	244.0							
+posthoc/posthoc_natcomm_plus/negctrl/cnn_dinuc_shuffle_test/cnn3head_ens/cnn_dinuc_shuffle_test.metrics.json			0.0								244.0	0.6543215666482256	0.5889041712617044	0.25680915297971935	0.26491538934942527			
+posthoc/posthoc_natcomm_plus/negctrl/dinuc_ridge/dinuc_ridge.metrics.json							0.348340980501392	0.22011573299629505	0.3923535210885203	0.3282843677847581						1.0		
+posthoc/posthoc_natcomm_plus/negctrl/kmer_leakage/kmer_leakage.summary.tsv																	k	6
+posthoc/posthoc_natcomm_plus/negctrl/kmer_leakage/kmer_leakage.summary.tsv																	n_train	1952
+posthoc/posthoc_natcomm_plus/negctrl/kmer_leakage/kmer_leakage.summary.tsv																	n_test	244
+posthoc/posthoc_natcomm_plus/negctrl/kmer_leakage/kmer_leakage.summary.tsv																	n_exact_dups_test_in_train	0
+posthoc/posthoc_natcomm_plus/negctrl/kmer_leakage/kmer_leakage.summary.tsv																	max_sim_quantiles	{0.5: 0.16211702034442177, 0.9: 0.31363637121792276, 0.95: 0.6310725027304613, 0.99: 0.8477407253115709}
+posthoc/posthoc_natcomm_plus/negctrl/kmer_leakage/kmer_leakage.summary.tsv																	max_sim_mean	0.21542924768652758
+posthoc/posthoc_natcomm_plus/negctrl/kmer_leakage/kmer_leakage.summary.tsv																	max_sim_max	0.9319572255716644

@@ -1,0 +1,32 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Recomputed outputs can be regenerated and may become large.
+Results/recomputed/
+
+# Model/checkpoint/intermediate artifacts.
+*.pt
+*.pth
+*.ckpt
+*.pkl
+*.joblib
+*.o
+*.e
+
+# Ignore large archive-like files by default, then explicitly keep the small
+# raw inputs required for manuscript-level reruns.
+*.tar.gz
+*.zip
+*.gz
+
+!Data/raw/
+!Data/raw/GSE83894/
+!Data/raw/GSE83894/formatB_agg_only.zip
+!Data/raw/GSE83894/formatA_all_replicates.zip
+!Data/raw/GSE142696/
+!Data/raw/GSE142696/GSM4237954_9MPRA_elements.fa.gz
+!Data/raw/GSE142696/GSE142696_9MPRA.ActivityRatios.tsv.gz
+!Data/raw/GSE142696/GSE142696_9MPRA.ActivityRatios.IndividualReps.tsv.gz

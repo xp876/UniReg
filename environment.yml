@@ -1,0 +1,22 @@
+name: unireg
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - pytorch
+  - cpuonly
+  - joblib
+  - tqdm
+  - biopython
+  - pip
+  - pip:
+      - transformers
+

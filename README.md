@@ -14,9 +14,7 @@ Delta = log2(WT / MT) = log2_WT - log2_MT
 ```
 
 where WT denotes the integrated reporter-state activity and MT denotes the
-episomal reporter-state activity. The repository is designed for
-manuscript-level reproducibility of the v34 retained-model analyses, not as a
-general-purpose installable Python package.
+episomal reporter-state activity.
 
 ![UniReg model schematic](Docs/Unireg.png)
 
